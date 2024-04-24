@@ -1,0 +1,46 @@
+Name,Specialty,Location,Experience,Rating,RatingCount
+Kamrul Hasan,General physician,Delhi,15,4.5,10
+Ariful Islam,General physician,Mumbai,10,4.2,5
+Michael Williams,Infectious disease specialist,Chennai,12,4.8,8
+Emily Davis,Orthopedic surgeon,Mumbai,8,3.9,12
+Mark Taylor,Orthopedic surgeon,Delhi,13,4.0,14
+Simran Kaur,Orthopedic surgeon,Chennai,15,4.2,13
+Andrew Wilson,Neurologist,Kolkata,18,4.7,15
+Janet Wilson,Neurologist,Bangalore,13,4.1,11
+Rajesh Singh,Neurologist,Hyderabad,14,4.4,10
+Olivia Brown,Gynecologist,Jaipur,14,4.0,7
+Eva Green,Gynecologist,Delhi,9,4.3,8
+Aarti Reddy,Gynecologist,Pune,11,4.1,9
+Ethan Taylor,Psychiatrist,Mumbai,9,4.3,20
+Noah Miller,Psychiatrist,Kolkata,11,4.5,13
+Priya Malik,Psychiatrist,Bangalore,12,4.0,10
+Ava Anderson,Ophthalmologist,Delhi,11,4.6,9
+Sophia Hill,Ophthalmologist,Ahmedabad,14,4.2,16
+Manish Kumar,Ophthalmologist,Hyderabad,10,4.0,8
+Benjamin Thompson,Ent specialist,Chennai,13,3.8,10
+Zoe Carter,Ent specialist,Mumbai,11,4.0,9
+Kunal Shah,Ent specialist,Delhi,12,4.5,11
+Mia Garcia,Internal medicine,Hyderabad,7,4.1,11
+Lucas Johnson,Internal medicine,Kolkata,16,4.5,15
+Shreya Iyer,Internal medicine,Bangalore,9,3.9,7
+Sarah Lee,Hematologist,Mumbai,10,4.2,14
+Anna Wright,Hematologist,Chennai,8,4.0,9
+Mohammed Ali,Hematologist,Delhi,12,4.3,11
+James Smith,Endocrinologist,Kolkata,15,3.8,22
+Lily Wilson,Endocrinologist,Bangalore,20,4.1,19
+Siddharth Ray,Endocrinologist,Mumbai,13,4.2,17
+Maria Rodriguez,Allergist,Delhi,7,4.4,18
+Isabella Martinez,Allergist,Mumbai,12,4.3,15
+Rajat Gupta,Allergist,Jaipur,10,4.1,9
+John Doe,Pulmonologist,Pune,5,4.1,9
+Emma Thomas,Pulmonologist,Bangalore,13,4.3,14
+Vijay Krishnan,Pulmonologist,Chennai,8,3.8,12
+Alice Johnson,Cardiologist,Hyderabad,20,4.5,30
+Nathan Moore,Cardiologist,Delhi,11,4.3,12
+Asha Patel,Cardiologist,Mumbai,14,4.2,15
+Carlos Martinez,Hepatologist,Kolkata,11,4.3,12
+Grace Lee,Hepatologist,Chennai,15,4.2,10
+Alok Banerjee,Hepatologist,Delhi,13,4.0,8
+Henry Brown,Microbiologist,Mumbai,10,4.6,16
+Chloe Garcia,Microbiologist,Pune,8,4.1,11
+Nitin Desai,Microbiologist,Delhi,9,4.3,10
